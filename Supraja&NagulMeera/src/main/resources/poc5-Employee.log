@@ -1,0 +1,134 @@
+2020-10-05 10:40:43 DEBUG please provide Id
+2020-10-05 10:40:43 DEBUG please provide Id
+2020-10-05 10:40:43 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 10:40:43 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 10:40:43 ERROR Record not found
+2020-10-05 10:40:43 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:40:44 ERROR Record not found
+2020-10-05 10:40:44 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:40:44 DEBUG Records found successfully
+2020-10-05 10:40:44 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:40:44 ERROR Record not found
+2020-10-05 10:40:44 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 10:40:44 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 10:40:44 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:40:44 DEBUG record deleted
+2020-10-05 10:49:28 DEBUG please provide Id
+2020-10-05 10:49:28 DEBUG please provide Id
+2020-10-05 10:50:24 DEBUG please provide Id
+2020-10-05 10:50:24 DEBUG please provide Id
+2020-10-05 10:50:24 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 10:50:24 ERROR Record not found
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:50:24 ERROR Record not found
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:50:24 DEBUG Records found successfully
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:50:24 ERROR Record not found
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 10:50:24 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 10:50:24 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:50:24 DEBUG record deleted
+2020-10-05 10:50:33 DEBUG please provide Id
+2020-10-05 10:50:33 DEBUG please provide Id
+2020-10-05 10:50:33 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 10:50:33 ERROR Record not found
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:50:33 ERROR Record not found
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:50:33 DEBUG Records found successfully
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:50:33 ERROR Record not found
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 10:50:33 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 10:50:33 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:50:33 DEBUG record deleted
+2020-10-05 10:52:14 DEBUG please provide Id
+2020-10-05 10:52:14 DEBUG please provide Id
+2020-10-05 10:52:14 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 10:52:14 ERROR Record not found
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:52:14 ERROR Record not found
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:52:14 DEBUG Records found successfully
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:52:14 ERROR Record not found
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 10:52:14 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 10:52:14 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:52:14 DEBUG record deleted
+2020-10-05 10:53:34 DEBUG please provide Id
+2020-10-05 10:53:34 DEBUG please provide Id
+2020-10-05 10:53:34 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 10:53:34 ERROR Record not found
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:53:34 ERROR Record not found
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 10:53:34 DEBUG Records found successfully
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:53:34 ERROR Record not found
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 10:53:34 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 10:53:34 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 10:53:34 DEBUG record deleted
+2020-10-05 11:02:09 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=100006, city=mumbai, phone=9440921408]
+2020-10-05 11:06:44 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=100006, city=mumbai, phone=9440921408]
+2020-10-05 11:09:21 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=10000, city=mumbai, phone=9440921408]
+2020-10-05 11:12:32 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=10000, city=mumbai, phone=9440921408]
+2020-10-05 11:14:59 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=10000, city=mumbai, phone=9440]
+2020-10-05 11:47:51 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rahul, sal=10000, city=mumbai, phone=9440921407]
+2020-10-05 11:49:06 DEBUG please provide Id
+2020-10-05 11:49:06 DEBUG please provide Id
+2020-10-05 11:49:06 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 11:49:06 ERROR Record not found
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 11:49:06 ERROR Record not found
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 11:49:06 DEBUG Records found successfully
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 11:49:06 ERROR Record not found
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 11:49:06 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 11:49:06 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 11:49:06 DEBUG record deleted
+2020-10-05 11:53:46 DEBUG Incoming request coming in to the Employee service :Employee [id=2, name=Ravali, sal=50000, city=banglore, phone=9440921400]
+2020-10-05 11:54:34 DEBUG Incoming request coming in to the Employee service :Employee [id=3, name=kusu, sal=50000, city=delhi, phone=8440921400]
+2020-10-05 11:57:46 DEBUG Incoming request coming in to the Employee service :Employee [id=4, name=Anjali, sal=20000, city=kolkatha, phone=7440921400]
+2020-10-05 11:58:18 DEBUG Incoming request coming in to the Employee service :Employee [id=5, name=Nagoor, sal=30000, city=chennai, phone=7446921400]
+2020-10-05 12:09:24 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 12:10:41 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:11:06 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:11:38 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:11:40 DEBUG Records found successfully
+2020-10-05 12:12:23 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:14:18 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:14:18 DEBUG Records found successfully
+2020-10-05 12:14:26 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 12:14:26 DEBUG Records found successfully
+2020-10-05 12:16:19 DEBUG Request coming in to the Employee service id method : 5
+2020-10-05 12:16:49 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 12:16:50 DEBUG record deleted
+2020-10-05 12:17:36 DEBUG Incoming request coming in to the Employee service :Employee [id=5, name=Nagoor, sal=30000, city=chennai, phone=7446921400]
+2020-10-05 12:24:39 DEBUG Incoming request coming in to the Employee service :Employee [id=6, name=Bhanu, sal=50000, city=hyd, phone=1234567899]
+2020-10-05 17:28:06 DEBUG please provide Id
+2020-10-05 17:28:06 DEBUG please provide Id
+2020-10-05 17:28:06 DEBUG Incoming request coming in to the Employee service :Employee [id=1, name=Rani, sal=40000, city=hyd, phone=6703644]
+2020-10-05 17:28:06 ERROR Record saved
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service id method : null
+2020-10-05 17:28:06 ERROR Record not found
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 17:28:06 ERROR Record not found
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service GetAll method 
+2020-10-05 17:28:06 DEBUG Records found successfully
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 17:28:06 ERROR Record not found
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service id method : 1
+2020-10-05 17:28:06 DEBUG Incoming request coming in to the Employee service :null
+2020-10-05 17:28:06 ERROR Record not saved
+2020-10-05 17:28:06 DEBUG Request coming in to the Employee service delete method 
+2020-10-05 17:28:06 DEBUG record deleted
